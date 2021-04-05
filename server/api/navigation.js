@@ -4,8 +4,8 @@ const router = express.Router();
 
 router.get("/get_navigationbar_info", function (request, response) {
     const data = {
-        name: "Bob",
-        navigation_fields: ["Jaarplanning", "Agenda", "Log Out"]
+        name: "Laurens",
+        navigation_fields: ["Jaar-planning", "Agenda", "Uitloggen"]
     }
     response.status(200).send(data).end();
 });
