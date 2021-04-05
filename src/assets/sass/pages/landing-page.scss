@@ -1,0 +1,16 @@
+body {
+  background-color: $primary-color;
+}
+
+.App {
+  padding: 25px;
+
+  .App-logo {
+    align-content: center;
+    height: 200px;
+  }
+
+  p {
+    color: #ffff;
+  }
+}

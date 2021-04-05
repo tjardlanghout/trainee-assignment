@@ -11,6 +11,10 @@ In the project directory, you can run:
 
 ### `npm install`
 
+In the ./server directory, you can run:
+
+### `npm install`
+
 Installs all the dependencies necessary to run the application.
 
 ### `npm start`
